@@ -1,0 +1,6 @@
+name="[HUB] 18 TwilightSparkle"
+url="LINK BEZPOSREDNI DO PACZKI NA FTP"
+img="LINK BEZPOSREDNI DO IKONY"
+fanart="LINK BEZPOSREDNI DO FANART"
+description="OPIS"
+version="NR WERSJI NP 0.1"
