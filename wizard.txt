@@ -1,4 +1,4 @@
-name="[HUB] 18 TwilightSparkle"
+name="[HUB] 17 TwilightSparkle"
 url="https://kodihub.net/x73ae"
 img="https://github.com/anon2018/TwilightSparkle/raw/master/icon.png"
 fanart=" "
