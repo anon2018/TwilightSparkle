@@ -1,5 +1,5 @@
 name="[HUB] 17 TwilightSparkle"
-url="https://kodihub.net/x73ae"
+url="https://kodihub.net/kkdlm"
 img="https://github.com/anon2018/TwilightSparkle/raw/master/icon.png"
 fanart=" "
 description="OPIS"
