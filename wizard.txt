@@ -6,7 +6,7 @@ description="OPIS"
 version="0.1"
 
 name="[HUB] 18 TwilightSparkle"
-url=""
+url="https://kodihub.net/mit3t"
 img="https://github.com/anon2018/TwilightSparkle/raw/master/icon.png"
 fanart=" "
 description="OPIS"
