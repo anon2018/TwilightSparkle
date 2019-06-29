@@ -1,3 +1,3 @@
 
 
-name="ONE"version="1.0"url="https://kodihub.net/ly4tn"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="ONE"version="1.0"url="https://kodihub.net/"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
