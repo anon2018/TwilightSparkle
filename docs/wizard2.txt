@@ -20,3 +20,6 @@ name="AEON NOX SILVO 18 PACK"version="1.0"url="https://kodihub.net/yktyw"minor="
 
 name="SS PACK"version="1.0"url="https://kodihub.net/7okm6"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 name="SS PACK"version="1.0"url="https://kodihub.net/7okm6"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
+name="SETTINGS PACK"version="1.0"url="https://kodihub.net/ri5ex"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="SSETTINGS PACK"version="1.0"url="https://kodihub.net/ri5ex"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
