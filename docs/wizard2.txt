@@ -14,8 +14,8 @@ name="2-SOURCE ADVANCED"version="1.0"url="https://kodihub.net/j6hkn"minor="http:
 
 
 
-name="3-SS PACK"version="1.0"url="https://kodihub.net/7okm6"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-name="3-SS PACK"version="1.0"url="https://kodihub.net/7okm6"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="3-SUPER + SHORTCUTS PACK"version="1.0"url="https://kodihub.net/7okm6"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="3-SUPER + SHORTCUTS PACK"version="1.0"url="https://kodihub.net/7okm6"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
 name="4-SETTINGS PACK"version="1.0"url="https://kodihub.net/ri5ex"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 name="4-SSETTINGS PACK"version="1.0"url="https://kodihub.net/ri5ex"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
