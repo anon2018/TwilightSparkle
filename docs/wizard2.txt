@@ -30,5 +30,5 @@ name="7-GUI fix PC 18 PACK"version="1.0"url="https://kodihub.net/52xpu"minor="ht
 
 
 
-name="ALL"version="1.0"url="https://kodihub.net/kvo6o"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="ALL"version="1.0"url="https://kodihub.net/ntutw"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
