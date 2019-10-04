@@ -1,35 +1,6 @@
 
 
-name="REPO PACK"version="1.0"url="https://kodihub.net/bdmqh"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
-
-name="REPO PACK"version="1.0"url="https://kodihub.net/bdmqh"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
-name="SUPER FOLDER PACK"version="1.0"url="https://kodihub.net/77g2y"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
-
-name="SUPER FOLDER PACK"version="1.0"url="https://kodihub.net/77g2y"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
-
-
-name="SOURCE ADVANCED"version="1.0"url="https://kodihub.net/j6hkn"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
-
-
-name="SOURCE ADVANCED"version="1.0"url="https://kodihub.net/j6hkn"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
-
-name="SKIN"version="1.0"url="https://kodihub.net/7okm6"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-name="SKIN"version="1.0"url="https://kodihub.net/7okm6"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
-
-name="7-GUI fix PC 17.6 PACK"version="1.0"url="https://kodihub.net/52xpu"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
-name="7-GUI fix PC 18 PACK"version="1.0"url="https://kodihub.net/52xpu"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
 
 
 name="ALL18"version="1.0"url="https://kodihub.net/ntutw"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
-
-name="ALL17"version="1.0"url="https://kodihub.net/9e9gy"minor="http://"gui="http://"kodi="17"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
