@@ -2,5 +2,9 @@
 
 
 
-name="ALL18.4"version="1.0"url="https://kodihub.net/xt6je"minor="http://"gui="http://"kodi="18"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="ALL18.4"version="1.0"url="https://kodihub.net/xt6je"minor="http://"gui="http://"kodi="18.5"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
+
+
+name="ALL17.6"version="1.0"url="https://kodihub.net/x2gnz"minor="http://"gui="http://"kodi="17.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
