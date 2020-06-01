@@ -6,8 +6,20 @@ name="MULTI SYSTEM PL18.7 24.05.20"version="1.1"url="https://kodihub.net/9uxyj"m
 
 
 
+
+
 name="ENG18.6"version="1.0"url="https://kodihub.net/8976f"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
+
+
+
+
+
+name="SKIN"version="1.2"url="https://www.dropbox.com/s/acswua365u4hpo3/skin.zip?dl=1"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
+name="SUPER FOLDER"version="1.2"url="https://www.dropbox.com/s/pkdrgl30fu4y7qt/sf.zip?dl=1"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
+name="REPO"version="1.2"url="https://www.dropbox.com/s/u7836ll8z9aqfq3/repo.zip?dl=1"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
 
 
