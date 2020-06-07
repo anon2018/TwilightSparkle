@@ -1,8 +1,8 @@
 
 
-name="ANDROID 32 18.7"version="1.1"url="https://kodihub.net/toj3r"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="ANDROID 32 PL"version="1.1"url="https://kodihub.net/toj3r"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
-name="POZOSTALE SYSTEMY PL 18.7 24.05.20"version="1.1"url="https://kodihub.net/9uxyj"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="POZOSTALE SYSTEMY PL"version="1.1"url="https://kodihub.net/9uxyj"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
 
 
