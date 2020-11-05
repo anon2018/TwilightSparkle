@@ -1,3 +1,4 @@
 
 
-name="PL"version="1.1"url=https://www.dropbox.com/s/ulu91dptqqdfwrl/PL.zip?dl=1"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="BUILD PL"version="1.2"url="https://drive.google.com/u/1/uc?export=download&confirm=5gsr&id=1QhZ6XAhPcYUq4SY2E6a7bKghqkvrTRvW"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
