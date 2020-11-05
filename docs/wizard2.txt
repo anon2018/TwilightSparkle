@@ -1,6 +1,6 @@
 
 
-name="PL"version="1.1"url=https://www.drivehq.com/file/DFPublishFile.aspx/FileID7593394837/Keyd3pwu4j75yvj/PL.zip"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="PL"version="1.1"url=https://www.dropbox.com/s/ulu91dptqqdfwrl/PL.zip?dl=1"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
 
 
