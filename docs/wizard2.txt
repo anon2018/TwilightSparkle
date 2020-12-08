@@ -1,9 +1,23 @@
 
 
-name="PL"version="1.1"url="https://www.dropbox.com/s/eaeutp6cayld9iw/PL.zip?dl=1"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="PL"version="1.1"url="https://kodihub.net/ivrly"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
 
 
 
-name="ENG"version="1.2"url="https://www.dropbox.com/s/o17cttjz2jav88g/ENG.zip?dl=1"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="ENG"version="1.2"url="https://kodihub.net/8976f"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
+
+
+name="REPO PACK"version="1.1"url="https://kodihub.net/utxrx"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
+
+
+
+name="SKIN SHORT SUPER FOLDER"version="1.2"url="https://kodihub.net/g7u7a"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
+
+
+
+name="SKIN PACK"version="1.2"url="https://kodihub.net/6jvc8"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
