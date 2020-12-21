@@ -1,6 +1,6 @@
 
 
-name="PL"version="1.1"url="https://www.dropbox.com/s/cpkeh844k84jpvf/PL.zip?dl=1"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="PL"version="1.1"url="https://kodihub.net/a974v"minor="http://"gui="http://"kodi="18.7"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
 
 
