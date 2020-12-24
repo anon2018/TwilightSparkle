@@ -1,7 +1,22 @@
 
 
-name="PL DROPBOX"version="1.2"url="https://www.dropbox.com/s/cpkeh844k84jpvf/PL.zip?dl=1"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+name="PL HUB"version="1.2"url="https://kodihub.net/a974v"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
+
+name="SKINPACK HUB"version="1.2"url="https://kodihub.net/6jvc8"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
+
+name="ENG HUB"version="1.2"url="https://kodihub.net/8976f"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
+
+
+
+
+
+
+
+
+
+name="PL DROPBOX"version="1.2"url="https://www.dropbox.com/s/cpkeh844k84jpvf/PL.zip?dl=1"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
 
 
 name="SKINPACK DROPBOX"version="1.2"url="https://www.dropbox.com/s/4zhsr7uub25jdkh/SKINPACK.zip?dl=1"minor="http://"gui="http://"kodi="18.6"theme="http://"icon="http://"fanart="http://"preview="http://"adult="no"info="http://"description="A short description of the build."
